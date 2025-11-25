@@ -1,25 +1,20 @@
-📋 Description
+Glassmorphism-style login page
 
-This project is a modern, glassmorphism-style login page inspired by the Ebolt Sign-In interface.
 It features a clean, minimal design with a frosted glass effect, subtle shadows, and smooth gradients — creating a premium look similar to Apple or Notion’s aesthetic.
 
 💻 Tech Stack
 
 HTML5 – Structure of the page
-
 CSS3 – Styling, glassmorphism effect, gradients, and layout
-
 Google Fonts (Poppins) – Clean and modern typography
-
 Boxicons – For simple and lightweight icons
 
-📸 Preview
 
+📸 Preview
 
 ![image alt](https://github.com/Saiyonbasorokhaibam/05.-Glassmorphic-Sign-In-page/blob/main/preview.png?raw=true)
 
 ✨ Features
-
 ✅ Glassmorphism card design (blur + transparency)
 ✅ Responsive centered layout
 ✅ Email and password input fields with icons
@@ -29,25 +24,14 @@ Boxicons – For simple and lightweight icons
 ✅ Soft drop shadows for depth and realism
 
 🎨 Design Details
-
 Backdrop blur: backdrop-filter: blur(15px) creates the glassy transparency.
-
 Light border + shadow: Adds contrast between background and card.
-
 Subtle gradient background: Smooth sky-blue-to-white gradient for calm aesthetic.
-
 Hover effects: Slight elevation for interactive buttons.
-
-📂 Project Structure
-📁 Ebolt-Login-UI
- ┣ 📄 index.html     → main HTML structure
- ┣ 📄 style.css      → main styles
- ┗ 📄 README.md      → project description (this file)
-
 
 
 🧑‍🎨 Author
-
 Created by: Saiyonba
 UI Inspiration: [Ebolt / Dribbble design reference]
+
 
