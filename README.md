@@ -16,7 +16,7 @@ Boxicons – For simple and lightweight icons
 📸 Preview
 
 
-![image alt](https://github.com/haokipstevin-rgb/3.-Glassmorphic-Sign-In-page/blob/main/review.png?raw=true)
+![image alt](https://github.com/Saiyonbasorokhaibam/05.-Glassmorphic-Sign-In-page/blob/main/preview.png?raw=true)
 
 ✨ Features
 
@@ -44,15 +44,10 @@ Hover effects: Slight elevation for interactive buttons.
  ┣ 📄 style.css      → main styles
  ┗ 📄 README.md      → project description (this file)
 
-🧠 How to Use
 
-Download or clone the repository.
-
-Open index.html in any browser.
-
-Edit email/password input logic or link social buttons to your auth system (optional).
 
 🧑‍🎨 Author
 
 Created by: Saiyonba
 UI Inspiration: [Ebolt / Dribbble design reference]
+
